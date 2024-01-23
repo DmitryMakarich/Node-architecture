@@ -2,3 +2,9 @@
  - Dependency Inversion and Inversion of Control principles
  - Dependency injection pattern
  - IoC Container
+
+### Dependencies:
+ - Prisma
+ - Inversify
+ - Reflect-metadata
+ - tslog
