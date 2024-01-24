@@ -8,3 +8,7 @@
  - Inversify
  - Reflect-metadata
  - tslog
+
+### Tests: 
+ - unit
+ - e2e
